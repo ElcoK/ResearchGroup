@@ -1,6 +1,6 @@
 +++
 title = "Evelyn Muhlhofer"
-authors = ["Muhlhofer"]
+authors = ["muhlhofer"]
 
 role = "PhD Candidate"
 
