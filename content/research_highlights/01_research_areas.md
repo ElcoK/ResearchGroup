@@ -6,7 +6,6 @@ weight = 15
 
 title = " Research Streams"
 
-  
 [[feature]]
   icon = "Flood"
   icon_pack = "custom"

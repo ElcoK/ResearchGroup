@@ -1,7 +1,5 @@
 +++
 title = "Evelyn Muhlhofer"
-firstname = "Evelyn"
-lastname  = "Muhlhofer"
 authors = ["Muhlhofer"]
 
 role = "PhD Candidate"
