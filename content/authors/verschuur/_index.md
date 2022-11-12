@@ -11,33 +11,27 @@ organizations = [
 ]
 
 interests = [
-  "Urban Logistics",
-  "Game-Theoretic Modelling",
-  "Traffic Control",
-  "Traffic Simulation",
+  "Maritime Trade",
+  "Network Modelling",
+  "Climate Extremes"
 ]
+
 user_groups = ["Alumni"]
 
 [[education.courses]]
-  course = "MSc in Transportation"
-  institution = "Imperial College London"
+  course = "MSc in Coastal Engineering"
+  institution = "TU Delft"
   year = 2021
-
-[[education.courses]]
- course = "MEng in Traffic Engineering"
- institution = "Southeast University"
- year = 2020
-
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://uk.linkedin.com/in/keyang-zhang-71195a1b0/"
+  link = ""
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/3238051"
+  link = ""
 
 +++
 
