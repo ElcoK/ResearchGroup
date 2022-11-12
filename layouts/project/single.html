@@ -1,0 +1,155 @@
+{{- define "main" -}}
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+  {{ $person := .Params }}
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    <div class="article-style" itemprop="articleBody">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.pd }}
+
+    <style> 
+        .pd-header { margin-bottom: 5px;font-size: 1rem;margin-top: 30px } 
+        .pd-table { width: 100%;border-collapse: collapse; border-style: none; border-top:none; background-color: white} 
+        .pd-table:hover {background-color: white !important;}
+        .pd-column { min-width: 320px; vertical-align: top;border-top:none } 
+        .pd-column:last-child { width: 100%;}
+        .pd-groupdiv { margin-bottom: 10px; }
+        .pd-groupheader { margin-bottom: 2px; font-size: 0.75rem; font-weight:bold;} 
+        .pd-groupentry { padding-left: 10px; margin-bottom: 0px} 
+        .pd-link { color: inherit;} 
+    </style> 
+
+        <hr>
+
+      <p class="pd-header"><strong>Project Details</strong></p>
+
+      <table class="pd-table" width="100%">
+        <tbody>
+          <tr>
+            {{ with .team }}
+            <td class="pd-column">
+            {{ with .internal }}
+              <div class="pd-groupdiv">
+                <p class="pd-groupheader">Team</p>
+                <div class="pd-groupentry">
+                  {{ range .entry }}
+                    {{ if isset . "link"}}
+                      <a href="{{ .link }}" class="pd-link">{{ .name }}</a>
+                    {{ else}}
+                      {{ .name }}
+                    {{ end }}
+
+                    &nbsp;&nbsp;<em style="font-size: 0.70rem;">{{ .role }}</em><br />
+                  {{ end }}
+                </div>
+              </div>
+            {{ end }}
+
+            {{ with .partners }}
+              <div class="pd-groupdiv">
+                <p class="pd-groupheader">Partners</p>
+                <div class="pd-groupentry">
+                  {{ range .entry }}
+                    {{ if isset . "link"}}
+                      <a href="{{ .link }}" class="pd-link">{{ .name }}</a>
+                    {{ else}}
+                      {{ .name }}
+                    {{ end }}
+                    <br />
+                  {{ end }}
+                </div>
+              </div>
+            {{ end }}
+
+            </td>
+            {{ end }}
+
+            {{ with .funders }}
+
+            <td class="pd-column">
+              <div class="pd-groupdiv">
+                <p class="pd-groupheader">
+                  Funding
+                </p>
+                <div class="pd-groupentry">
+                  {{ range .entry }}
+                    {{ if isset . "link"}}
+                      <a href="{{ .link }}" class="pd-link">{{ .name }}</a>
+                    {{ else}}
+                      {{ .name }}
+                    {{ end }}
+                    <br />
+                  {{ end }}
+                </div>
+              </div>
+            </td>
+            {{ end }}
+          </tr>
+        </tbody>
+      </table>
+    {{ end }}
+
+    <!-- Relevant Publications -->
+
+    {{ if isset .Params "publication" }}
+      {{ $items :=  $.Params.publication  }} 
+      {{ if ge (len $items) 1}}
+        <hr>
+        <div><strong>Related Publications </strong></div>
+        <br>
+        {{ range $v := $items }}
+          {{ $pub_url := (printf "/publication/%s" (urlize $v)) }}
+          {{ $pub := site.GetPage $pub_url}}
+          {{ partial "li_citation" $pub }}
+        {{ end}}
+      {{ end }}
+    {{ end }}
+
+    <!-- Relevant Conference Talks -->
+
+    {{ if isset .Params "conferencetalks" }}
+      {{ $items :=  $.Params.conferencetalks  }} 
+      {{ if ge (len $items) 1}}
+        <hr>
+        <div><strong> Related Talks </strong></div>
+        <br>
+        {{ range $v := $items }}
+          {{ $pub_url := (printf "/publication/%s" (urlize $v)) }}
+          {{ $pub := site.GetPage $pub_url}}
+          {{ partial "li_citation" $pub }}
+        {{ end}}
+      {{ end }}
+    {{ end }}
+
+    {{ $page := . }}
+    {{ $project := .File.ContentBaseName }}
+
+    {{ $items := where (where site.RegularPages "Type" "post") ".Params.projects" "intersect" (slice $project) }}
+    {{ $count := len $items }}
+    {{ if ge $count 1 }}
+      <h2>{{ (i18n "posts") }}</h2>
+      {{ range $items }}
+        {{ if eq site.Params.projects.post_view 1 }}
+          {{ partial "li_list" . }}
+        {{ else if eq site.Params.projects.post_view 3 }}
+          {{ partial "li_card" . }}
+        {{ else }}
+          {{ partial "li_compact" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  </div>
+</article>
+
+{{ if site.Params.section_pager }}
+<div class="article-container article-widget">
+  {{ partial "section_pager.html" . }}
+</div>
+{{ end }}
+
+{{- end -}}

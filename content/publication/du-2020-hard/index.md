@@ -1,0 +1,11 @@
+---
+title: "Hard or soft flood adaptation? Advantages of a hybrid strategy for Shanghai"
+date: 2020-01-01
+authors: ["Shiqiang Du", "Paolo Scussolini", "Philip J Ward", "Min Zhang", "Jiahong Wen", "Luyang Wang", "Elco Koks", "Andres Diaz-Loaiza", "Jun Gao", "Qian Ke", " others"]
+publication_types: ["2"]
+abstract: "Flood risk is expected to increase in coastal cities, particularly in Asian megacities such as Shanghai. This paper presents an integrated modeling framework to simulate changes in the flood risk in Shanghai and provide a cost-benefit analysis of multiple adaptation strategies used to reduce risk. The results show that the potential flood risk will increase dramatically as a result of sea level rise, land subsidence, and socioeconomic development. By 2100, the expected annual damage could reach 0.8% (uncertainty range: 0.4%–1.4%) of local GDP under an optimistic emission scenario (RCP4.5), compared to the current value of 0.03%. All of the adaptation strategies can effectively reduce the flood risk under the current conditions and those in 2050. In contrast to the ‘hard’ flood protection strategies (i.e., storm-surge barriers and floodwalls), the ‘soft’ strategies (i.e., building codes and nature-based measures) cannot substantially reduce the flood risk in 2100. However, the soft strategies can play a critical role in reducing the residual risk resulting from the hard strategies. A ‘hybrid’ strategy combining a storm-surge barrier, wet-proofing, and coastal wetland development outperforms both hard and soft strategies in terms of low residual risk and high benefit/cost ratio. Additionally, the hybrid strategy can also enable a larger reduction in casualties. These findings imply that managing flood risk is more than the use of single adaptation measures. The methodology developed in this paper can enlighten Shanghai and other coastal cities on an economically and socially feasible adaptation strategy in an uncertain future."
+featured: false
+publication: "*Global Environmental Change*"
+doi: "10.1016/j.gloenvcha.2020.102037"
+---
+

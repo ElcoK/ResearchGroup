@@ -3,8 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Infrastructure Risk & Resilience Lab # Website name
+baseurl: 'https://example.com' # Website URL
+copyright: '&copy; 2019-{year}, Infrastructure Risk & Resilience Lab' # Footer text, e.g. '© {year} Me'
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 
 ############################
 ## LANGUAGE
@@ -21,18 +28,20 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
+  hugoVersion:
+    min: '0.84.1'
+    extended: true
 
 ############################
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
-paginate: 10
-enableEmoji: true
+paginate: 100
+enableEmoji: false
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
@@ -45,9 +54,19 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -55,8 +74,6 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-markup:
-  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -66,7 +83,3 @@ related:
       weight: 100
     - name: categories
       weight: 70
-security:
-  _merge: deep
-sitemap:
-  _merge: deep

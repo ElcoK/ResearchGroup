@@ -3,114 +3,134 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+i_am_a_sponsor: true
+hide_published_with: true
+
 # Appearance
 
-appearance:
-  theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+theme: minimal
+day_night: false
+font: tslab
+
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size: M
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+site_type: Organization
+local_business_type: 'Research Group'
+org_name: 'Infrastructure Risk & Resilience Lab'
+description: ''
+
+# Contact (edit or remove options as required)
+
+email: 
+#phone: 888 888 88 88
+# address:
+#   street: Skempton Building
+#   city: London
+#   region: 
+#   postcode: 'SW7 2BU'
+#   country: United Kingdom
+#   country_code: GB
+# coordinates:
+#   latitude: '51.498186'
+#   longitude: '-0.17592'
+directions: <b> Department of Water & Climate Risk </b><br> Institute for Environmental Studies <br> Vrije Universiteit Amsterdam <br>  De Boelelaan 1111, 1081 HV
+#office_hours:
+#appointment_url: 
+contact_links:
+ - icon: envelope
+   icon_pack: fas
+   name: Email enquiries
+   link: "mailto: elco.koks@vu.nl"
+#  - icon: twitter
+#    icon_pack: fab
+#    name: "@tsl_imperial"
+#    link: "https://twitter.com/tsl_imperial"
 
 # Site header
 
-header:
-  navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
-
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+main_menu:
+  enable: true
+  align: r
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: false
 
 # Localization
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
 
 # Site features
 
-features:
-  syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Citation style
-
+highlight: false
+math: true
+diagram: true
+privacy_pack: false
+show_related:
+  post: true
+  project: true
+  publication: true
+  talk: true
+reading_time: false
+section_pager: false
+sharing: false
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: square
 publications:
-  date_format: January 2006
+  date_format: '2006'
   citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+comments:
+  provider: ''
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: mapnik
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: 'UA-139517690-1'
+  google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: main
+  local_backend: false
+icon:
+  pack:
+    ai: true
