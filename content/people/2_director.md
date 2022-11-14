@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Head of Lab
+title: Lead Scientist and Lab Founder
 subtitle:
 
 content:
