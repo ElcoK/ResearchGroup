@@ -5,8 +5,8 @@ date            = 2019-09-10T00:00:00
 
 [[pd.team.internal.entry]]
   name = "Elco Koks"
-  role = "Supervisor"
-  link = "/team/koks/"
+  role = "Project Investigator"
+  link = "/ResearchGroup/author/elco-koks/"
 
 [[pd.funders.entry]]
   name = "European Commission"

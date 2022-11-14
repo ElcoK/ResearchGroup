@@ -5,13 +5,13 @@ date            = 2019-09-10T00:00:00
 
 [[pd.team.internal.entry]]
   name = "Elco Koks"
-  role = "Supervisor"
-  link = "/team/koks/"
+  role = "Project Leader @ IVM"
+  link = "/ResearchGroup/author/elco-koks/"
 
 [[pd.team.internal.entry]]
   name = "Sadhana Nirandjan"
   role = "PhD Researcher"
-  link = "/team/nirandjan/"
+  link = "/ResearchGroup/author/nirandjan/"
 
 [[pd.funders.entry]]
   name = "European Commission"
