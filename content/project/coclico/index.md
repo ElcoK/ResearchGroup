@@ -6,17 +6,17 @@ date            = 2019-09-10T00:00:00
 [[pd.team.internal.entry]]
   name = "Elco Koks"
   role = "Project Leader @ IVM"
-  link = "/author/elco-koks/"
+  link = "ResearchGroup/author/elco-koks/"
 
 [[pd.team.internal.entry]]
   name = "Joel De Plaen"
   role = "PhD Researcher"
-  link = "/author/joel-de-plaen/"
+  link = "ResearchGroup/author/joel-de-plaen/"
 
 [[pd.team.internal.entry]]
   name = "Sadhana Nirandjan"
   role = "PhD Researcher"
-  link = "/author/sadhana-nirandjan/"
+  link = "ResearchGroup/author/sadhana-nirandjan/"
 
 [[pd.funders.entry]]
   name = "European Commission"
