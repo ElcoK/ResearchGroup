@@ -1,6 +1,6 @@
 +++
 title = "Sadhana Nirandjan"
-authors = [nirandjan"]
+authors = ["nirandjan"]
 role = "PhD Candidate"
 
 organizations = [
