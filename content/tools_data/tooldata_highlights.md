@@ -4,24 +4,24 @@ headless: true
 active: true  
 weight : 28  
 
-title: Project Highlights
+title: Tools & Data
 
 content:
-  page_type : project
+  page_type : projects_toolsdata
 
   filter_default : 0
   
   filter_button:
     - name : All
       tag : '*'
-    - name : Asset-level Exposure And Vulnerability
-      tag : assets
-    - name : Infrastructure Network Interdepencies
-      tag : networks
-    - name : Climate Adaptation of Infrastructure Systems
-      tag : adaptation      
-    - name : Societal impacts of Infrastructure Failure
-      tag : society
+    - name : Open-Access
+      tag : open-access
+    - name : Tool
+      tag : tool
+    - name : Model code
+      tag : code      
+    - name : Data
+      tag : data
 
 
 design:
