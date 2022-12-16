@@ -44,10 +44,10 @@ contact_links:
    icon_pack: fas
    name: Email enquiries
    link: "mailto: elco.koks@vu.nl"
-#  - icon: twitter
-#    icon_pack: fab
-#    name: "@tsl_imperial"
-#    link: "https://twitter.com/tsl_imperial"
+ - icon: twitter
+   icon_pack: fab
+   name: "@ElcoK"
+   link: "https://twitter.com/ElcoK"
 
 # Site header
 
@@ -77,7 +77,7 @@ show_related:
   project: true
   publication: true
   talk: true
-reading_time: false
+reading_time: true
 section_pager: false
 sharing: false
 copyright_license:

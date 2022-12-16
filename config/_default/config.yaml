@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Infrastructure Risk & Resilience Lab # Website name
-baseurl: 'https://elcoK.github.io/ResearchGroup' # Website URL
+baseurl: 'www.google.com' # Website URL
 copyright: '&copy; 2019-{year}, Infrastructure Risk & Resilience Lab' # Footer text, e.g. '© {year} Me'
 
 security:
