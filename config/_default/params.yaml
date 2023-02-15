@@ -9,7 +9,7 @@ hide_published_with: true
 # Appearance
 
 theme: minimal
-day_night: True
+day_night: false
 font: tslab
 
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
