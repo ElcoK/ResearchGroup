@@ -2,7 +2,7 @@
 name = "Minimal"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#192A13"

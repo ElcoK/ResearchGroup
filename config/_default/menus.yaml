@@ -7,21 +7,21 @@ main:
   - name: Home
     url: /
     weight: 10
-  # - name: News
-  #   url: post
-  #   weight: 20  
+  - name: News
+    url: post
+    weight: 20  
   - name: People
     url: people
-    weight: 20
+    weight: 30
   - name: Research Projects
     url: research_highlights
-    weight: 30
+    weight: 40
   - name: Tools & Data
     url: tools_data
-    weight: 40      
+    weight: 50      
   - name: Publications
     url: papers
-    weight: 50
+    weight: 60
   # - name: Contact
   #   url: contact
   #   weight: 60

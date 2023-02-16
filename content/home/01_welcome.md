@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Infrastructure 
-  Risk & Resilience Lab
+  Risk & Resilience Research Group
  
 hero_media: welcome.jpg
 design:

@@ -19,7 +19,7 @@ font_size: M
 
 site_type: Organization
 local_business_type: 'Research Group'
-org_name: 'Infrastructure Risk & Resilience Lab'
+org_name: 'Infrastructure Risk & Resilience Research Group'
 description: ''
 
 # Contact (edit or remove options as required)
@@ -56,7 +56,7 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: false
 
