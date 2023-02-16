@@ -16,5 +16,5 @@ menu_title = "#fff"
 link = "rgb(0, 0, 100)"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "rgb(38, 43, 66)"
+home_section_even = "rgb(38, 43, 66)"

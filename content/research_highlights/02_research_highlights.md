@@ -4,7 +4,7 @@ headless: true
 active: true  
 weight : 28  
 
-title: Project Highlights
+title: Highlighted Projects
 
 content:
   page_type : project
