@@ -1,80 +1,16 @@
 ---
 layout: page
 title: VENI
-description: a project with a background image
-img: assets/img/12.jpg
+description: Improving Resilience of Global Transport Infrastructure
+img: assets/img/veni.jpg
 importance: 1
 category: NWO
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Climate extremes, such as floods and tropical cyclones, can cause significant financial and human losses. While the vulnerability of buildings and population directly exposed to climate extremes is extensively studied, a large knowledge gap exists in understanding how damaged transport infrastructure can result in cascading effects through disrupted trade flows. As observed during recent floods in Japan (2018) and hurricanes Irma and Harvey in the US (2017), locally occurring infrastructure damage and economic losses can result in transnational socio-economic impacts. This is particularly caused by an increasing trend of international fragmentation of production supply chains, which rely on longer, more complex, and globally distributed supply networks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The main objective of this proposal is to quantify the vulnerability of the global trade system as a result of transport infrastructure failures due to climate extremes, and to develop adaptation measures to improve its resilience. To do so, I will develop a first-of-its-kind global spatially explicit system-of-systems modelling framework designed to estimate disruptions in global trade and transport systems, creating and using novel geospatial global databases and supply-chain impact assessment models. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In practical terms, I will develop a high-resolution global multimodal transport network, a geospatial database of industrial activity, and downscaled subnational multiregional trade matrices. These datasets will be used in a modelling framework that integrates multiregional impact modelling and network analysis techniques. The results of this project will provide more scientific evidence on trade and transport vulnerability to climate extremes, and will provide guidance in the development of successful adaptation measures to reduce this vulnerability. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The proposed research combines my current expertise on high-resolution geospatial and disaster impact modelling using open-source data and tools. The novelty and the need for this work enables high-impact research with broad and demonstrable societal value.

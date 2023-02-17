@@ -11,7 +11,7 @@ lastname: Koks
 publications: 'author^=*Koks'
 
 teaser: >
-    I’m a (tenured) Assistant Professor at the Institute for Environmental Studies, Vrije Universiteit Amsterdam.
+    I’m a (tenured) Assistant Professor within the Water & Climate Risk Group at the Institute for Environmental Studies, Vrije Universiteit Amsterdam.
 
 profile:
     name: Dr. Elco Koks
@@ -20,67 +20,17 @@ profile:
     image: koks-profile.jpg
     email: elco.koks@vu.nl
     twitter: ElcoK
-    orcid: 0000-0002-9324-8894
+    orcid: 0000-0002-4953-4527
     address: >
-        School of Computer Science<br />
-        Office 64-114<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Institute for Environmental Studies<br />
+        DE Boelelaan 1111<br />
+        1081 HV, Amsterdam, The Netherlands
 ---
 
-I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020.
-Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
+Elco Koks is an Assistant Professor within the Water and Climate Risk group at the Institute for Environmental Studies (Vrije Universiteit Amsterdam). His research combines knowledge from disaster impact modelling, critical infrastructure, network analysis and macroeconomics.
 
+Over the past years he has worked on several projects related to disaster impact modelling, climate change and economics in the context of national (ITRC-MISTRAL (UK), Knowledge for Climate in (NL)) and EU research projects (WISC, ENHANCE, MYRIAD-EU). Besides, he has worked on climate adaptation programs in the port of Rotterdam (Waterveiligheid Botlek) and Amsterdam (Waterbestendig Westpoort). In 2019, he received the prestigious VENI grant from the Netherlands Scientific Organisation (NWO). He currently leads a Work Package within the H2020 CoCliCo project on object-detection infrastructure assets on satellite imagery, and a Work Package within the H2020 RECEIPT project on adaptation of coastal infrastructure.
 
-## Recent Committees (Selected)
+He currently supervises seven PhDs that work on the interplay of critical infrastructure risk modelling, network analysis and economic impact analysis.
 
-* [ECOOP’23](https://conf.researchr.org/home/ecoop-2022){: target="_blank" } (Co-Chair)
-* [ICSME’23]( https://conf.researchr.org/home/icsme-2023){: target="_blank" } (PC)
-* [ISSTA’23](https://conf.researchr.org/home/issta-2023){: target="_blank" } (PC)
-* [OOPSLA’23](https://2023.splashcon.org/){: target="_blank" } (PC)
-* [ICSE’23 NIER](https://conf.researchr.org/home/icse-2023){: target="_blank" } (PC)
-* [ICSE’22](https://conf.researchr.org/home/icse-2022){: target="_blank" } (PC)
-* [ECOOP’22](https://conf.researchr.org/home/ecoop-2022){: target="_blank" } (PC)
-* [ESOP’21](https://etaps.org/2021/esop){: target="_blank" } (PC)  
-* [ACSOS'21](https://conf.researchr.org/home/acsos-2021){: target="_blank" } (PC)
-* [ECOOP’20](https://2020.ecoop.org/){: target="_blank" } (PC)
-* [ICFP’20](https://icfp20.sigplan.org/){: target="_blank" } (ERC)
-* [PROGRAMMING’20](https://2020.programming-conference.org/){: target="_blank" } (PC)
-
-[//]: * [CCGrid’20](http://cloudbus.org/ccgrid2020/){: target="_blank" } (PC)
-[//]: * [FORTE’19](http://www.discotec.org/2019/forte.html){: target="_blank" } (PC)
-[//]: * [MPLR’19](https://conf.researchr.org/home/mplr-2019){: target="_blank" } (PC)
-[//]: * [PROGRAMMING’19](https://2019.programming-conference.org/){: target="_blank" } (PC)
-
-
-## Reviewer for Journals
-
-* IEEE Transactions on Software Engineering (TSE)
-* ACM Transactions on Software Engineering and Methodology (TOSEM)
-* Springer International Journal on Very Large Data Bases (VLDB)
-* Elsevier Journal of Systems and Software (JSS)
-* Elsevier Science of Computer Programming
-* IEEE Transactions on Computers
-* Elsevier Journal of Computer Languages
-* Elsevier Knowledge-based Engineering
-* IEEE Internet Computing
-* ACM Transactions on Autonomous and Adaptive Systems (TAAS)
-* Springer Empirical Software Engineering
-* Elsevier Information and Software Technology
-* Elsevier Pervasive and Mobile Computing
-* LNCS Transactions on Aspect-Oriented Software Development
-
-
-## Organization of Scientific Events
-
-* The ACM DEBS’19 conference (with Boris Koldehofe)
-* Dagstuhl Seminar "Programming Languages for Distributed Systems and Distributed Data Management" (19442), 2019
-* NII Shonan Meeting on "Programming Languages for Distributed Systems", 2019
-* REBLS workshop series at Splash: REBLS'21,'20,'19,’18,’17,’16,’15,’14,REM’13
-* COP’16 workshop at ECOOP
-
-
-## Short Bio
-
-I got my PhD from Dipartimento di Elettronica e Informazione at Politecnico di Milano, under the supervision of Prof. Carlo Ghezzi. My doctoral dissertation focuses on context-oriented programming and language-level techniques for adaptive software.Visiting Ph.D. student, Fall 2011, Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory, Supervisor: Prof. Barbara Liskov. Visiting Ph.D. student, Spring 2011, Technical University of Darmstadt, Computer Engineering Department, Supervisor: Prof. Mira Mezini. I’ve been an assistant professor at TU Darmstadt until fall 2020.
-
+One of his own specialties is the modelling of the economy-wide consequences of disasters on both a regional and interregional level, focusing on industrial impacts and infrastructure systems. One of the key elements in his research is to integrate natural disaster models with macroeconomic impact models. He has developed various disaster impact models, of which several are publicly available through GitHub (https://github.com/ElcoK).

@@ -4,7 +4,7 @@ title: Home
 permalink: /
 nav_rank: 1
 # sitetitle: true
-description: Welcome to the Programming Group at the University of St. Gallen and at the Technical University of Darmstadt. Team. Projects. Support.
+description: Welcome to the Infrastructure Research Group at the Vrije Universiteit Amsterdam.
 
 # profile:
 #     name: Prof. Dr. Guido Salvaneschi
@@ -31,19 +31,14 @@ social: false  # includes social icons at the bottom of the page
 > <i class="fas fa-quote-right"></i><br />
 > — Lewis Carroll
 
-Welcome to the Programming Group!
-We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}
-and have a branch at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/){: target="_blank"}. 
-Together we enjoy working on **Programming Languages**
-and **Software Engineering**, including languages and architectures for
-**Distributed Systems**, **Reactive Programming**, **DevOps Organizations**, and **Secure Software Systems**.
+Welcome to the Infrastructure Research Group!
+We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have active collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group @ ETH Zurich](https://wcr.ethz.ch/){: target="_blank"} and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
+
+Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdepency modelling** and **large-scale risk assessments**.
 
 [Talk to us](mailto:elco.koks@vu.nl) or
 [join our group]({{ '/open-positions' | relative_url }})
 when you are interested in these topics or our work.
-Students at HSG or TU Darmstadt,
-please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
-{: class="clearfix"}
 
 {% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
 <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">

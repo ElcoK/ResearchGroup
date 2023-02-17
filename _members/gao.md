@@ -11,25 +11,21 @@ lastname: Gigon
 publications: 'author^=*Gigon'
 
 teaser: >
-    I hold a Bachelor of Arts in Economics from the University of St. Gallen
-    and am currently pursuing a Bachelor of Science in Computer Science at ETH Zurich.
-    I joined the Programming Group in Fall 2022,
-    where I contribute to programming in the Metaverse
-    as well as automated testing techniques for modern Infrastructure as Code programs.
+    Siyu Gao is a PhD Researcher in the department of Water and Climate Risk at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam (VU Amsterdam).
+
 
 profile:
     name: Siyu Gao, MSc
     align: right
     image: gao-profile.jpg
     role: PhD Researcher
-    address: >
-        School of Computer Science<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
 ---
 
-I hold a Bachelor of Arts in Economics from the [University of St. Gallen](https://www.unisg.ch/){: target="_blank" }
-and am currently pursuing a Bachelor of Science in Computer Science at [ETH Zurich](https://ethz.ch/){: target="_blank" }.
-I joined the Programming Group in Fall 2022,
-where I contribute to programming in the Metaverse
-as well as automated testing techniques for modern Infrastructure as Code programs.
+Siyu Gao is a PhD Candidate in the department of Water and Climate Risk at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam (VU Amsterdam).
+
+Siyu’s research interests are involving urban transportation network, interdependent infrastructures, assessment and prediction of system vulnerability and resilience.
+
+Her PhD project is funded by the China Scholarship Council (CSC), and focus on  revealing the evolution process of the resilience of complex, interdependent transportation infrastructure networks under extreme weather as well as developing real-time disruption or recovery monitoring and prediction methods.
+
+Prior to this, Siyu obtained her Master’s degree from Northwestern Polytechnical University (NPU), where her research focused on developing an integrated model considering the impact of interdependent electricity infrastructure to analyze and assess the vulnerability influencing factors of urban road networks in Xi’an. Her main research improved the selection process of the threshold to integrate DEMATEL (Decision-making Trial and Evaluation Laboratory) and ISM (Interpretative Structural Modeling) reducing expert bias and subjective decision-making errors. At the same time, she applied text mining method to construct a conditional probability table (CPT) which is used in the BN (Bayesian network) model for vulnerability quantification under different levels of the rainstorm.
+

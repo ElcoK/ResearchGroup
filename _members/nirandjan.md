@@ -11,25 +11,15 @@ lastname: Gigon
 publications: 'author^=*Gigon'
 
 teaser: >
-    I hold a Bachelor of Arts in Economics from the University of St. Gallen
-    and am currently pursuing a Bachelor of Science in Computer Science at ETH Zurich.
-    I joined the Programming Group in Fall 2022,
-    where I contribute to programming in the Metaverse
-    as well as automated testing techniques for modern Infrastructure as Code programs.
+    Sadhana Nirandjan is a PhD researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
 
 profile:
     name: Sadhana Nirandjan, MSc
     align: right
     image: nirandjan-profile.jpg
     role: PhD Researcher
-    address: >
-        School of Computer Science<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
 ---
 
-I hold a Bachelor of Arts in Economics from the [University of St. Gallen](https://www.unisg.ch/){: target="_blank" }
-and am currently pursuing a Bachelor of Science in Computer Science at [ETH Zurich](https://ethz.ch/){: target="_blank" }.
-I joined the Programming Group in Fall 2022,
-where I contribute to programming in the Metaverse
-as well as automated testing techniques for modern Infrastructure as Code programs.
+Sadhana Nirandjan is a PhD researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. She completed a bachelor’s degree in Earth Sciences and Economics from Vrije Universiteit Amsterdam, during which she discovered her interest for interdisciplinary research within hydrological systems and its societal impacts. Before she started her master in Hydrology at Vrije Universiteit Amsterdam, she had followed extra-curricular courses in South Africa to gain more knowledge on environmental issues experienced abroad, for which she was awarded the Holland Scholarship. She completed her master’s in Hydrology with a thesis on Managed Aquifer Systems in coastal areas.
+
+In her current research, she aims to quantify the impacts and the risks of current and future sea-level rise and coastal flooding on Europe’s coastal infrastructure and the European economy. This quantification will be done through a combination of state-of-the-art flood simulation modelling, network analysis and economic impact modelling. This research is part of the RECEIPT project focussing on impacts of climate change on Europe and is funded by the European Commission.

@@ -1,80 +1,21 @@
 ---
 layout: page
 title: RECEIPT
-description: a project with a background image
-img: assets/img/12.jpg
+description: REmote Climate Effects and their Impact on European sustainability, Policy and Trade
+img: assets/img/receipt.jpg
 importance: 4
 category: European Commission
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As the world warms and extreme weather becomes unpredictable, a globalised Europe may be exposed to highly unexpected impacts from climate extremes anywhere on the planet. And the economic impact will be devastating. Europe could pay a heavy price for its globalised climate exposure. The EU-funded RECEIPT project will map connections between European socio-economic activities and remote climatic hazards. The aim is to provide quantitative information on the European risks from remote climatic events. The project’s key deliverables include a map of global hotspots of remote areas with climatic features relevant for Europe, and scientific narratives describing the impact on Europe’s food security, financial sector, international development and coastal infrastructure. It will deliver a Europe-wide socio-economic risk assessment showing the differences between high-end and moderate climate change conditions.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In an interconnected world, Europe’s economy will be increasingly affected by climate change impacts that occur beyond its border. The movement of goods and services, people and capital occurs at ever increasing rates and volumes. This complex network reveals Europe’s globalized climate exposure, vulnerability and risk structure, through which both gradual and sudden impacts of climatic features at any location on the world (hurricanes, droughts, melting ice sheets) propagate, ultimately impacting Europe’s socio-economic welfare. Public awareness of Europe’s sensitivity to global climate impacts is steadily growing.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In order to provide relevant and quantitative information on the European risks from remote global climatic features, RECEIPT will develop and implement a novel stakeholder driven storytelling concept that maps representative connections between European socio-economic activities and remote climatic hazards. Using a limited number of storylines designed for selected sectors, RECEIPT has the following key objectives and deliverables:
+• Mapping of global hotspots of remote areas with climate features relevant for Europe, using state-of- the-art climate and climate-impact databases;
+• Science-based sectoral storylines co-developed with societal partners, describing the impacts of remote climate change on: European food security, the financial sector, international development, commodities and European coastal infrastructure;
+• Assessment of European socio-economic impacts along each of the selected storylines under different future climatic conditions, including high-end climate scenarios;
+• A robust synthesis of the storyline results into a pan-European socio-economic risk assessment focusing on the difference between high-end and moderate climate change conditions;
+• Innovative web-based concepts for visualizing potential impacts of remote drivers and mapping risk mitigation options.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/592773969?h=319bc0384a" width="900" height="500" frameborder="0" allowfullscreen></iframe>

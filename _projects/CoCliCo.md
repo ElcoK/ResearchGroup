@@ -1,80 +1,14 @@
 ---
 layout: page
 title: CoCliCo
-description: a project with a background image
-img: assets/img/3.jpg
+description: Coastal Climate Core Services
+img: assets/img/coclico.jpg
 importance: 1
 category: European Commission
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Coastal flooding is a real concern that affects millions of people across Europe. It not only impacts on human health but on infrastructure and services. The EU-funded CoCliCo project aims to deliver an open web-platform that will help inform decision-making on coastal risk and adaptation. The platform will look into the main risk drivers and adjust visualisation and analysis techniques to local decision contexts. It will further combine important and high-quality geospatial information layers. Users of the platform will be able to visualise, download and analyse multiple decision-oriented coastal risk scenarios.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Even if climate change mitigation objectives agreed in Paris are met, sea level will rise at least by 0.3 to 0.6m in 2100 and then continue rising for centuries. The potential impacts for coastal flooding are a major source of concern for Europe because many infrastructures are located close to shorelines or in low-lying areas. Broad scale coastal climate services and platforms available today have successfully addressed the need to raise awareness on mitigation. However, an authoritative, consistent and decision oriented platform is still missing to meet the needs of adaptation practitioners concerned with (1) the routine identification of coastal territories at risk from innundation, (2) coastal land use planning or (3) maintaining coastal infastructure services. The Coastal Climate Core Service (CoCliCo) project aims at informing decision-making on coastal risk and adaptation, by delivering an open web-platform exploring dominant risk drivers, adjusting visualisation and analysis techniques to local decision contexts, and combining relevant and high-quality geospatial information layers. Through the platform, users will be able to visualize, download and analyse multiple decision-oriented coastal risk scenarios relevant to the rich user narratives of our Demonstration Case Studies addressing the three needs raised above. To meet this challenge, CoCliCo brings together European organizations and scholars that have proven track records of delivering broad-scale coastal risk and adaptation assessment, as well as leading research and technologies in interoperable geospatial data management, decision sciences and risk communication.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<iframe width="900" height="500" src="https://www.youtube.com/embed/Piu3VYS7YlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
