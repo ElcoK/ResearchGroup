@@ -26,11 +26,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-> <i class="fas fa-quote-left"></i>
-> “Where should I go?” - Alice. “That depends on where you want to end up.” - The Cheshire Cat.
-> <i class="fas fa-quote-right"></i><br />
-> — Lewis Carroll
-
 Welcome to the Infrastructure Research Group!
 We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have active collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group @ ETH Zurich](https://wcr.ethz.ch/){: target="_blank"} and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
 
