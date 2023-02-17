@@ -19,7 +19,7 @@ profile:
     align: right
     image: koks-profile.jpg
     email: elco.koks@vu.nl
-    twitter: ElcoK
+    twitter: ElcoKoks
     orcid: 0000-0002-4953-4527
     address: >
         Institute for Environmental Studies<br />
