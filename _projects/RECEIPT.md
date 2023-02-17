@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: RECEIPT
+description: a project with a background image
+img: assets/img/12.jpg
+importance: 4
+category: European Commission
 ---
 
 Every project has a beautiful feature showcase page.
