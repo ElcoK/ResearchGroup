@@ -7,14 +7,14 @@ team_frontpage: false
 
 title: Dr. Kees van Ginkel
 description: Profile of Dr. Kees van Ginkel, affiliated researcher with the Programming Group.
-lastname: VanGinkel
-publications: 'author^=*vanginkel'
+lastname: Van Ginkel
+publications: 'author^=*Van Ginkel'
 
 teaser: >
     Kees van Ginkel is a researcher working at Deltares.
 
 profile:
-    name: Dr. Kees Van Ginkel
+    name: Dr. Kees van Ginkel
     align: right
     image: vanginkel-profile.jpg
     role: Postdoc

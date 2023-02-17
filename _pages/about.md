@@ -4,20 +4,7 @@ title: Home
 permalink: /
 nav_rank: 1
 # sitetitle: true
-description: Welcome to the Infrastructure Research Group at the Vrije Universiteit Amsterdam.
-
-# profile:
-#     name: Prof. Dr. Guido Salvaneschi
-#     position: Head of the Programming Group
-#     align: right
-#     image: salvaneschi-profile.jpg
-#     href: '/members/salvaneschi'
-#     email: guido.salvaneschi@unisg.ch
-#     address: >
-#         School of Computer Science<br />
-#         Office 64-114<br />
-#         Torstrasse 25<br />
-#         9000 St. Gallen, Switzerland
+description: Welcome to the Infrastructure Risk & Resilience Lab at the Vrije Universiteit Amsterdam.
 
 news: true # includes a list of news items
 projects: true # includes a tile list of projects
@@ -26,10 +13,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to the Infrastructure Research Group!
-We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have active collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group](https://wcr.ethz.ch/){: target="_blank"} at ETH Zurich and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
+Welcome to the Infrastructure Risk & Resilience Lab!
+We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have close collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group](https://wcr.ethz.ch/){: target="_blank"} at ETH Zurich and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
 
-Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdepency modelling** and **large-scale risk assessments**.
+Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdependency modelling** and **large-scale risk assessments**.
 
 [Talk to us](mailto:elco.koks@vu.nl) when you are interested in these topics or our work.
 

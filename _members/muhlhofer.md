@@ -5,16 +5,16 @@ group: Doctoral Researchers
 group_rank: 2
 team_frontpage: true
 
-title: Evelyn Muhlhofer, MSc
-description: Profile of Evelyn Muhlhofer, PhD Researcher within the Infrastructure Group.
-lastname: muhlhofer
-publications: 'author^=*muhlhofer'
+title: Evelyn Mühlhofer, MSc
+description: Profile of Evelyn Mühlhofer, PhD Researcher within the Infrastructure Group.
+lastname: Mühlhofer
+publications: 'author^=*Mühlhofer'
 
 teaser: >
-    Evelyn Muhlhofer is a PhD researcher in the department of Weather and Climate Risk (WCR) at ETH Zurich.
+    Evelyn Mühlhofer is a PhD researcher in the department of Weather and Climate Risk (WCR) at ETH Zurich.
 
 profile:
-    name: Evelyn Muhlhofer, MSc
+    name: Evelyn Mühlhofer, MSc
     align: right
     image: muhlhofer-profile.jpg
     role: PhD Researcher

@@ -8,7 +8,7 @@ team_frontpage: true
 title: Mengqi Ye, MSc
 description: Profile of Mengqi Ye, PhD Researcher within the Infrastructure Group.
 lastname: Ye
-publications: 'author^=*ye'
+publications: 'author^=*Ye'
 
 teaser: >
     Mengqi Ye is a PhD researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.

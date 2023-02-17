@@ -7,8 +7,8 @@ team_frontpage: true
 
 title: Sadhana Nirandjan, MSc
 description: Profile of Sadhana Nirandjan, PhD Researcher within the Infrastructure Group.
-lastname: Gigon
-publications: 'author^=*Gigon'
+lastname: Nirandjan
+publications: 'author^=*Nirandjan'
 
 teaser: >
     Sadhana Nirandjan is a PhD researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.

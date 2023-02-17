@@ -2,26 +2,30 @@
   - firstname: ["Elco", "E.", "Elco Koks"]
     url: /ResearchGroup/members/koks
 
-"Weisenburger":
-  - firstname: [ "Pascal", "P.", "Pascal Weisenburger" ]
-    url: /members/weisenburger
+"Nirandjan":
+  - firstname: [ "Sadhana", "S.", "Nirandjan" ]
+    url: /ResearchGroup/members/nirandjan
 
-"Delshad":
-  - firstname: [ "Benyamin", "B.", "Benyamin Delshad" ]
-    url: /members/delshad
+"Ye":
+  - firstname: [ "Mengqi", "M.", "Ye" ]
+    url: /ResearchGroup//members/ye
 
-"Eskandani":
-  - firstname: [ "Nafise", "N.", "Nafise Eskandani" ]
-    url: /members/eskandani
+"Gao":
+  - firstname: [ "Siyu", "S.", "Gao" ]
+    url: /ResearchGroup//members/gao
 
-"Köhler":
-  - firstname: [ "Mirko", "M.", "Mirko Köhler" ]
-    url: /members/koehler
+"Mühlhofer":
+  - firstname: [ "Evelyn", "E.", "Mühlhofer" ]
+    url: /ResearchGroup//members/muhlhofer
 
-"Oak":
-  - firstname: [ "Aditya", "A.", "Aditya Oak" ]
-    url: /members/oak
+"deplaen":
+  - firstname: [ "Joel", "J.", "De Plaen" ]
+    url: /ResearchGroup//members/deplaen
 
-"Sokolowski":
-  - firstname: [ "Daniel", "D.", "Daniel Sokolowski" ]
-    url: /members/sokolowski
+"Verschuur":
+  - firstname: [ "Jasper", "J.", "Verschuur" ]
+    url: /ResearchGroup//members/verschuur
+
+"van Ginkel":
+  - firstname: [ "Kees", "K.", "Van Ginkel" ]
+    url: /ResearchGroup//members/vanginkel

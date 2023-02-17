@@ -7,8 +7,8 @@ team_frontpage: true
 
 title: Joel De Plaen, MSc
 description: Profile of Joel De Plaen, PhD Researcher within the Infrastructure Group.
-lastname: Gigon
-publications: 'author^=*Gigon'
+lastname: De Plaen
+publications: 'author^=*Plaen'
 
 teaser: >
     Joël De Paen is a PhD researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
