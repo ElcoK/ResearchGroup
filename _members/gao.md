@@ -7,8 +7,8 @@ team_frontpage: true
 
 title: Siyu Gao, MSc
 description: Profile of Siyu Gao, PhD Researcher within the Infrastructure Group.
-lastname: Gigon
-publications: 'author^=*Gigon'
+lastname: Gao
+publications: 'author^=*Gao'
 
 teaser: >
     Siyu Gao is a PhD Researcher in the department of Water and Climate Risk at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam (VU Amsterdam).

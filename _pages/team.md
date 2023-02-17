@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: group_page
 permalink: /team
 title: Research Group
 description: 
