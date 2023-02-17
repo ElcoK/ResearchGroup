@@ -31,9 +31,7 @@ We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.v
 
 Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdepency modelling** and **large-scale risk assessments**.
 
-[Talk to us](mailto:elco.koks@vu.nl) or
-[join our group]({{ '/open-positions' | relative_url }})
-when you are interested in these topics or our work.
+[Talk to us](mailto:elco.koks@vu.nl) when you are interested in these topics or our work.
 
 {% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
 <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">

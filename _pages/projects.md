@@ -36,6 +36,7 @@ horizontal: false
   {% endfor %}
 
 {%- else -%}
+
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
