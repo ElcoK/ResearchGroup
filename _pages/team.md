@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team
-title: Team
+title: Research Group
 description: 
 nav: true
 nav_rank: 2
