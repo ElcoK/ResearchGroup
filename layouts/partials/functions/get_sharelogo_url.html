@@ -1,7 +1,0 @@
-{{/* Function to get logo URL for JSONLD. */}}
-{{/* Inputs: page context */}}
-{{/* Output: logo URL (URL) */}}
-
-{{ $logo_url := (partial "functions/get_sharelogo" (dict "constraint" "fit" "size" 192)).Permalink }}
-
-{{ return $logo_url }}
