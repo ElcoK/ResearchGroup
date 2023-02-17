@@ -6,7 +6,7 @@ group_rank: 2
 team_frontpage: true
 
 title: Sadhana Nirandjan, MSc
-description: Profile of Sadhana Nirandjan, PhD Researcher within the Infrastructure Group.
+description: 
 lastname: Nirandjan
 publications: 'author^=*Nirandjan'
 

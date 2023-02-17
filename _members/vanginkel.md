@@ -6,7 +6,7 @@ group_rank: 4
 team_frontpage: false
 
 title: Dr. Kees van Ginkel
-description: Profile of Dr. Kees van Ginkel, affiliated researcher with the Programming Group.
+description: 
 lastname: Van Ginkel
 publications: 'author^=*Van Ginkel'
 

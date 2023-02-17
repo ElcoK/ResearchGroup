@@ -6,7 +6,7 @@ group_rank: 2
 team_frontpage: true
 
 title: Evelyn Mühlhofer, MSc
-description: Profile of Evelyn Mühlhofer, PhD Researcher within the Infrastructure Group.
+description: 
 lastname: Mühlhofer
 publications: 'author^=*Mühlhofer'
 

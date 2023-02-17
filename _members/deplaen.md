@@ -6,7 +6,7 @@ group_rank: 2
 team_frontpage: true
 
 title: Joel De Plaen, MSc
-description: Profile of Joel De Plaen, PhD Researcher within the Infrastructure Group.
+description: 
 lastname: De Plaen
 publications: 'author^=*Plaen'
 

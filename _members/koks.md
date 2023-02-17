@@ -6,7 +6,7 @@ group_rank: 1
 team_frontpage: true
 
 title: Dr. Elco Koks
-description: Profile of Dr. Elco Koks, Head of the Infrastructure Research Group.
+description: 
 lastname: Koks
 publications: 'author^=*Koks'
 

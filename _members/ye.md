@@ -6,7 +6,7 @@ group_rank: 2
 team_frontpage: true
 
 title: Mengqi Ye, MSc
-description: Profile of Mengqi Ye, PhD Researcher within the Infrastructure Group.
+description: 
 lastname: Ye
 publications: 'author^=*Ye'
 

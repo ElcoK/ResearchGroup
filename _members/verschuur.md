@@ -6,7 +6,7 @@ group_rank: 4
 team_frontpage: false
 
 title: Dr. Jasper Verschuur
-description: Profile of Dr. Jasper Verschuur, affiliated researcher with the Programming Group.
+description: 
 lastname: Verschuur
 publications: 'author^=*verschuur'
 

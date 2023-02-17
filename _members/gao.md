@@ -6,7 +6,7 @@ group_rank: 2
 team_frontpage: true
 
 title: Siyu Gao, MSc
-description: Profile of Siyu Gao, PhD Researcher within the Infrastructure Group.
+description: 
 lastname: Gao
 publications: 'author^=*Gao'
 
