@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Affiliated Researchers
 group_rank: 4

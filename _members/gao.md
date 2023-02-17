@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Doctoral Researchers
 group_rank: 2

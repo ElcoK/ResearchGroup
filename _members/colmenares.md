@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Student Researchers
 group_rank: 3

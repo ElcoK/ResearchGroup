@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: member
 inline: false
 group: Faculty
 group_rank: 1
