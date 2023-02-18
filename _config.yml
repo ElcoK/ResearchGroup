@@ -203,7 +203,6 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-diagrams
-  - jekyll-seo-tag
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
