@@ -35,25 +35,23 @@ One of his own specialties is the modelling of the economy-wide consequences of 
 <br>
 
 ### **Education** 
-Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Programme &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| University &nbsp; &nbsp; &nbsp;| 
+Year  | Programme | University
 -------|-------------------| ----------- 
 `2012-2016` | PhD Economic modelling for Flood Risk Assessment | Vrije Universiteit Amsterdam 
 `2010-2011` | MSc Spatial Economics | Vrije Universiteit Amsterdam
 `2007-2010` | BSc Earth & Economics | Vrije Universiteit Amsterdam
-<br>
 
 ### **Working Experience**
-Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Job Title &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Place &nbsp; &nbsp; &nbsp;
+Year  | Job Title | Place 
 -------|-------------------| ----------- 
 `2019-now` | Assistant Professor | Vrije Universiteit Amsterdam 
 `2019-now` | Honorary Research Associate | University of Oxford 
 `2017-2019` | Postdoctoral Researcher | University of Oxford 
 `2016-2018` | Postdoctoral Researcher | Vrije Universiteit Amsterdam 
 `2012-2016` | PhD Researcher | Vrije Universiteit Amsterdam 
-<br>
 
 ### **Research projects**
-Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Project &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Role &nbsp; &nbsp; &nbsp;| Funder &nbsp; &nbsp; &nbsp;
+Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
 `2023-2027` | MIRACA | Project Coordinator | Horizon Europe
 `2021-2025` | CoCliCo | Workpackage Leader | Horizon 2020
