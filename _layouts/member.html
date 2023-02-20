@@ -26,6 +26,33 @@ layout: default
               class=profile_image_class
               alt=page.profile.image -%}
             {% endif -%}
+            
+        <p>
+            <div class="card {% if member.inline == false %}hoverable{% endif %}">
+                <div class="row no-gutters">
+                        <div class="card-body">
+                            {% if page.profile.email %}
+                                <a href="mailto:{{ page.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
+                            {% endif %}
+                            {% if page.profile.orcid %}
+                                <a href="https://orcid.org/{{ page.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
+                            {% endif %}
+                            {% if page.profile.twitter %}
+                                <a href="https://twitter.com/{{ page.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
+                            {% endif %}
+                            {% if page.profile.github %}
+                                <a href="https://github.com/{{ page.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
+                            {% endif %}
+                            {% if page.profile.linkedin %}
+                                <a href="https://linkedin.com/in/{{ page.profile.linkedin }}" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            {% endif %}                            
+                        </div>
+                </div>
+            </div>
+        </p>
+
+
+
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}

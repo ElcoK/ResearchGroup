@@ -21,6 +21,8 @@ profile:
     email: elco.koks@vu.nl
     twitter: ElcoKoks
     orcid: 0000-0002-4953-4527
+    github: ElcoK
+    linkedin: elcokoks
     address: >
         Institute for Environmental Studies<br />
         De Boelelaan 1111<br />
