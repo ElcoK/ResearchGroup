@@ -35,7 +35,7 @@ One of his own specialties is the modelling of the economy-wide consequences of 
 <br>
 
 
-### **Education** 
+### Education 
 
 Year  | Programme | University
 -------|-------------------| ----------- 
@@ -45,7 +45,7 @@ Year  | Programme | University
 
 <br>
 
-### **Working Experience**
+### Working Experience
 
 Year  | Job Title | Place 
 -------|-------------------| ----------- 
@@ -57,16 +57,16 @@ Year  | Job Title | Place
 
 <br>
 
-### **Research projects**
+### Research projects
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2023-2027`&nbsp; | MIRACA | Project Coordinator | Horizon Europe
+`2023-2027` &nbsp; | MIRACA | Project Coordinator | Horizon Europe
 `2021-2025` | CoCliCo | Workpackage Leader &nbsp;&nbsp; | Horizon 2020
 `2021-2025` | MYRIAD - EU | Researcher | Horizon 2020
-`2021-2023` | Resilient Regions&nbsp;&nbsp; | Researcher | NWO
+`2021-2023` | Resilient Regions | Researcher | NWO
 `2020-2025` | VENI | Project Coordinator | NWO
-`2019-2022` | Various Research Projects | Project Coordinator | World Bank
+`2019-2022` | Various Research Projects &nbsp;&nbsp;| Project Coordinator | World Bank
 `2019-2023` | RECEIPT | Workpackage Leader | Horizon 2020
 `2017-2019` | ITRC-MISTRAL | Researcher | UK-EPSRC 
 `2016-2018` | WISC | Workpackage Leader | ECMWF 
