@@ -29,8 +29,37 @@ profile:
 
 Elco Koks is an Assistant Professor within the Water and Climate Risk group at the Institute for Environmental Studies (Vrije Universiteit Amsterdam) and a Honorary Research Associate within the Oxford Programme of Sustainable Infrastructure Systems (OPSIS). His research combines knowledge from disaster impact modelling, critical infrastructure, network analysis and macroeconomics. 
 
-Over the past years he has worked on several projects related to disaster impact modelling, climate change and economics in the context of national (ITRC-MISTRAL (UK), Knowledge for Climate in (NL)) and EU research projects (WISC, ENHANCE, MYRIAD-EU). Besides, he has worked on climate adaptation programs in the port of Rotterdam (Waterveiligheid Botlek) and Amsterdam (Waterbestendig Westpoort). In 2019, he received the prestigious VENI grant from the Netherlands Scientific Organisation (NWO). He currently leads a Work Package within the H2020 CoCliCo project on object-detection infrastructure assets on satellite imagery, and a Work Package within the H2020 RECEIPT project on adaptation of coastal infrastructure.
-
 He currently supervises nine PhDs that work on the interplay of multi-risk, critical infrastructure risk modelling, network analysis and economic impact analysis.
 
-One of his own specialties is the modelling of the economy-wide consequences of disasters on both a regional and interregional level, focusing on industrial impacts and infrastructure systems. One of the key elements in his research is to integrate natural disaster models with macroeconomic impact models. He has developed various disaster impact models, of which several are publicly available through GitHub (https://github.com/ElcoK).
+One of his own specialties is the modelling of the economy-wide consequences of disasters on both a regional and interregional level, focusing on industrial impacts and infrastructure systems. One of the key elements in his research is to integrate natural disaster models with macroeconomic impact models. 
+<br>
+
+### **Education** 
+Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Programme &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| University &nbsp; &nbsp; &nbsp;| 
+-------|-------------------| ----------- 
+`2012-2016` | PhD Economic modelling for Flood Risk Assessment | Vrije Universiteit Amsterdam 
+`2010-2011` | MSc Spatial Economics | Vrije Universiteit Amsterdam
+`2007-2010` | BSc Earth & Economics | Vrije Universiteit Amsterdam
+<br>
+
+### **Working Experience**
+Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Job Title &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Place &nbsp; &nbsp; &nbsp;
+-------|-------------------| ----------- 
+`2019-now` | Assistant Professor | Vrije Universiteit Amsterdam 
+`2019-now` | Honorary Research Associate | University of Oxford 
+`2017-2019` | Postdoctoral Researcher | University of Oxford 
+`2016-2018` | Postdoctoral Researcher | Vrije Universiteit Amsterdam 
+`2012-2016` | PhD Researcher | Vrije Universiteit Amsterdam 
+<br>
+
+### **Research projects**
+Year &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Project &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Role &nbsp; &nbsp; &nbsp;| Funder &nbsp; &nbsp; &nbsp;
+-------|-------------------| ----------- | ---------
+`2023-2027` | MIRACA | Project Coordinator | Horizon Europe
+`2021-2025` | CoCliCo | Workpackage Leader | Horizon 2020
+`2021-2025` | MYRIAD - EU | Researcher | Horizon 2020
+`2021-2023` | Resilient Regions | Researcher | NWO
+`2020-2025` | VENI | Project Coordinator | NWO
+`2019-2023` | RECEIPT | Workpackage Leader | Horizon 2020
+`2017-2019` | ITRC-MISTRAL | Researcher | UK-EPSRC 
+`2016-2018` | WISC | Workpackage Leader | ECMWF 
