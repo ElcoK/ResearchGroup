@@ -34,11 +34,15 @@ Her PhD project is funded by the China Scholarship Council (CSC), and focus on r
 Prior to this, Siyu obtained her Master’s degree from Northwestern Polytechnical University (NPU), where her research focused on developing an integrated model considering the impact of interdependent electricity infrastructure to analyze and assess the vulnerability influencing factors of urban road networks in Xi’an. Her main research improved the selection process of the threshold to integrate DEMATEL (Decision-making Trial and Evaluation Laboratory) and ISM (Interpretative Structural Modeling) reducing expert bias and subjective decision-making errors. At the same time, she applied text mining method to construct a conditional probability table (CPT) which is used in the BN (Bayesian network) model for vulnerability quantification under different levels of the rainstorm
 ​<br>
 
-### Education
+
+### Education 
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2022-now` | PhD Resilience of Urban Transportation under Climate Extremes &nbsp; | Vrije Universiteit Amsterdam 
-`2019-2022` &nbsp; | MSc Management Science and Engineering | Northwestern Polytechnical University
-`2015-2019` | BSc Construction Cost | Changan University
+`2022-now`  | PhD Resilience of Urban Transportation under Climate Extremes &nbsp;  | Vrije Universiteit Amsterdam 
+`2019-2022`  &nbsp;| MSc Management Science and Engineering | Northwestern Polytechnical University
+`2015-2019`  &nbsp;| BSc Construction Cost | Changan University
+
+<br>
+
 ​
