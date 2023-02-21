@@ -15,7 +15,7 @@ teaser: >
 
 profile:
     name: Dr. Elco Koks
-    position: Head of the Infrastructure Research Group
+    position: Head of the Infrastructure Risk & Resilience Group
     align: right
     image: koks-profile.jpg
     email: elco.koks@vu.nl
