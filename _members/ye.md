@@ -39,6 +39,6 @@ Prior to this, Mengqi obtained her Master degree in Natural Disasters at Beijing
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2020-now`&nbsp | PhD Risk Assessment of Climate Extremes to Power Systems | Vrije Universiteit Amsterdam 
+`2020-now`&nbsp; | PhD Risk Assessment of Climate Extremes to Power Systems | Vrije Universiteit Amsterdam 
 `2017-2020` | MSc Natural Hazards | Beijing Normal University
-`2013-2017`&nbsp | BSc Geographic Information Science | China University of Geosciences
+`2013-2017`&nbsp; | BSc Geographic Information Science | China University of Geosciences
