@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CSC Mengqi Ye
-description: PhD project
-img: assets/img/1.jpg
+title: Societal Impacts & Power Systems
+description: PhD project of Mengqi Ye
+img: assets/img/infra1.jpg
 importance: 3
 category: Personal
 ---

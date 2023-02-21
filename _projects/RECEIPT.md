@@ -2,7 +2,7 @@
 layout: page
 title: RECEIPT
 description: REmote Climate Effects and their Impact on European sustainability, Policy and Trade
-img: assets/img/receipt.jpg
+img: assets/img/infra2.jpg
 importance: 4
 category: European Commission
 ---

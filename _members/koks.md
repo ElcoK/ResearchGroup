@@ -75,3 +75,8 @@ Year | Project | Role | Funder
 `2012-2016` | TURAS | Researcher | Horizon FP7
 
 <br>
+
+### Publications
+<div class="publications">
+  {% bibliography -f papers -q @*[author^=*Koks]* %}
+</div>

@@ -21,3 +21,10 @@ profile:
     orcid: 0000-0003-1288-1485
 ---
 
+
+### Publications
+<div class="publications">
+  {% bibliography -f papers -q @*[author^=*Verschuur]* %}
+</div>
+
+

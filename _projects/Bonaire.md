@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Climate Risk Bonaire
-description: a project with a background image
-img: assets/img/12.jpg
+description: The socioeconomic impacts of climate change to Bonaire
+img: assets/img/bonaire_image.jpg
 importance: 1
 category: Other
 ---
@@ -21,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: CSC Siyu Gao
-description: a project with a background image
-img: assets/img/1.jpg
+title: Resilient Urban transport networks
+description: PhD project of Siyu Gao
+img: assets/img/siyu_project.jpg
 importance: 3
 category: Personal
 ---

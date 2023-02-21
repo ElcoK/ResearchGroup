@@ -52,7 +52,6 @@ layout: default
         </p>
 
 
-
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
@@ -66,10 +65,10 @@ layout: default
           </div>
 
           <!-- Selected papers -->
-          {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
-            {%- include selected_papers.html %}
-          {%- endif %}
+          <div class="publications">
+            {% bibliography -f papers -q @*[page.publications]* %}
+          </div>
+
 
           <!-- Social -->
           {%- if page.social %}

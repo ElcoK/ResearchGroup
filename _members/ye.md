@@ -43,3 +43,8 @@ Year  | Programme | University
 `2013-2017`  &nbsp;&nbsp;| BSc Geographic Information Science | China University of Geosciences
 
 <br>
+
+### Publications
+<div class="publications">
+  {% bibliography -f papers -q @*[author^=*Ye]* %}
+</div>

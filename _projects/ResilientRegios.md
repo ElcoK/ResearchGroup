@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resilient Regions
-description: a project with a background image
+description: Identifying trade interdependencies across the world 
 img: assets/img/12.jpg
 importance: 1
 category: NWO

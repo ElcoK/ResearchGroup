@@ -2,7 +2,7 @@
 layout: page
 title: VENI
 description: Improving Resilience of Global Transport Infrastructure
-img: assets/img/veni.jpg
+img: assets/img/veni_project.jpg
 importance: 1
 category: NWO
 ---

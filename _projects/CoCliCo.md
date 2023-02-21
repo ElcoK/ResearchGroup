@@ -2,7 +2,7 @@
 layout: page
 title: CoCliCo
 description: Coastal Climate Core Services
-img: assets/img/coclico.jpg
+img: assets/img/cocl_image.jpg
 importance: 1
 category: European Commission
 ---
