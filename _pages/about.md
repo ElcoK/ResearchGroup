@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div class="row">
+<div class="row"  id="bannerfigure">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/infra1.jpg" title="Denis Onyodi / IFRC/DRK" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -25,9 +25,9 @@ social: false  # includes social icons at the bottom of the page
     </div>
 </div>
 
-# Infrastructure Risk & Resilience Lab
+# Infrastructure Risk & Resilience Group
 
-Welcome to the Infrastructure Risk & Resilience Group!
+Welcome to the webpage of the Infrastructure Risk & Resilience Group!
 We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have close collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group](https://wcr.ethz.ch/){: target="_blank"} at ETH Zurich and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
 
 Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdependency modelling** and **large-scale risk assessments**.
