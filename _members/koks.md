@@ -41,7 +41,7 @@ One of his own specialties is the modelling of the economy-wide consequences of 
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2012-2016`&nbsp; | PhD Economic modelling for Flood Risk Assessment | Vrije Universiteit Amsterdam 
+`2012-2016`&nbsp; | PhD Economic modelling for Flood Risk Assessment &nbsp; | Vrije Universiteit Amsterdam 
 `2010-2011` | MSc Spatial Economics | Vrije Universiteit Amsterdam
 `2007-2010` | BSc Earth & Economics | Vrije Universiteit Amsterdam
 
