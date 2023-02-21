@@ -42,4 +42,3 @@ Year  | Programme | University
 `2019-2022` &nbsp; | MSc Management Science and Engineering | Northwestern Polytechnical University
 `2015-2019` | BSc Construction Cost | Changan University
 ​
-<br>
