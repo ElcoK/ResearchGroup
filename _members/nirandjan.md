@@ -60,3 +60,9 @@ Year | Project | Role | Funder
 `2019-2023` &nbsp;&nbsp; | RECEIPT | PhD Researcher | Horizon 2020
 
 <br>
+
+### Publications
+<div class="publications">
+  {% bibliography -f papers -q @*[author^=*Nirandjan]* %}
+</div>
+
