@@ -38,7 +38,7 @@ In her current research, she aims to increase our understanding of the multi-haz
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2019-now`&nbsp; | PhD Multi-hazard risk to critical infrastructure at the global scale| Vrije Universiteit Amsterdam 
+`2019-now`&nbsp; &nbsp;| PhD Multi-hazard risk to critical infrastructure at the global scale| Vrije Universiteit Amsterdam 
 `2017-2019` | MSc Hydrology (cum laude) | Vrije Universiteit Amsterdam
 `2013-2016` | BSc Earth & Economics | Vrije Universiteit Amsterdam
 
@@ -49,7 +49,7 @@ Year  | Programme | University
 Year  | Job Title | Place 
 -------|-------------------| ----------- 
 `2019-now` | PhD Researcher | Vrije Universiteit Amsterdam 
-`2018-2019` | Student Assistant Global Environmental Change & Policy &nbsp;&nbsp;| Vrije Universiteit Amsterdam 
+`2018-2019` &nbsp;&nbsp; | Student Assistant Global Environmental Change & Policy &nbsp;&nbsp;| Vrije Universiteit Amsterdam 
 
 <br>
 
@@ -57,6 +57,6 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2019-2023` | RECEIPT | PhD Researcher | Horizon 2020
+`2019-2023` &nbsp;&nbsp; | RECEIPT | PhD Researcher | Horizon 2020
 
 <br>
