@@ -41,7 +41,7 @@ His current research focusses on quantifying the macro economic impacts of infra
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2023-now`&nbsp; &nbsp;| PhD - Economic impacts of infrastructure failure | Vrije Universiteit Amsterdam 
+`2023-now`&nbsp; &nbsp;| PhD - Economic impacts of infrastructure failure  &nbsp;&nbsp; | Vrije Universiteit Amsterdam 
 `2018-2021` | M.Tech Civil Engineering | Indian Institue of Technology Gandhinagar
 `2014-2018` | B.E Civil Engineering | PSG College of Technology
 
@@ -52,7 +52,7 @@ Year  | Programme | University
 Year  | Job Title | Place 
 -------|-------------------| ----------- 
 `2023-now` | PhD Researcher | Vrije Universiteit Amsterdam 
-`2022-2023` &nbsp;&nbsp; | Flood vulnerability model developer | Impact Forecasting - AON
+`2022-2023` &nbsp;&nbsp; | Flood vulnerability model developer  &nbsp;&nbsp; | Impact Forecasting - AON
 `2021-2022` &nbsp;&nbsp; | Engineer - Strcutural Engineering | Thornton Tomasetti
 
 <br>
