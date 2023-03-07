@@ -41,7 +41,7 @@ His current research focusses on quantifying the macro economic impacts of infra
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2023-now`&nbsp; &nbsp;| PhD - Macro economic impacts of infrastrcuture failure due to natural hazards| Vrije Universiteit Amsterdam 
+`2023-now`&nbsp; &nbsp;| PhD - Economic impacts of infrastructure failure | Vrije Universiteit Amsterdam 
 `2018-2021` | M.Tech Civil Engineering | Indian Institue of Technology Gandhinagar
 `2014-2018` | B.E Civil Engineering | PSG College of Technology
 
@@ -67,5 +67,5 @@ Year | Project | Role | Funder
 
 ### Publications
 <div class="publications">
-  {% bibliography -f papers -q @*[author^=*Peregrina]* %}
+  {% bibliography -f papers -q @*[author^=*Raj]* %}
 </div>
