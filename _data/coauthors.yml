@@ -14,9 +14,13 @@
   - firstname: [ "Siyu", "S.", "Gao" ]
     url: /ResearchGroup//members/gao
 
+"Raj":
+  - firstname: [ "Surender", "V.", "Raj" ]
+    url: /ResearchGroup//members/raj
+
 "Mühlhofer":
   - firstname: [ "Evelyn", "E.", "Mühlhofer" ]
-    url: /ResearchGroup//members/muhlhofer
+    url: /ResearchGroup//members/muehlhofer
 
 "deplaen":
   - firstname: [ "Joel", "J.", "De Plaen" ]
