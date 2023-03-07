@@ -18,11 +18,10 @@ profile:
     position: PhD Researcher
     align: right
     image: peregrina-profile.jpg
-    email: sadhana.nirandjan@vu.nl
-    twitter: s_nirandjan
-    orcid: 0000-0002-2967-7782
-    github: snirandjan
-    linkedin: sadhananirandjan
+    email: daniel.peregrinagonzalez@deltares.nl
+    orcid: 0000-0002-6788-0765
+    github: edPeregrina
+    linkedin: edperegrinag
     address: >
         Deltares <br />
         Boussinesqweg 1<br />

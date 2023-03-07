@@ -8,21 +8,21 @@ team_frontpage: true
 title: Evelyn Mühlhofer, MSc ETH
 description: 
 lastname: Mühlhofer
-publications: 'author^=*Peregrina'
+publications: 'author^=*Mühlhofer'
 
 teaser: >
-    Daniel Peregrina is a PhD researcher in the department of Climate Adaptation at Deltares and in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
+    Evelyn Mühlhofer is a PhD researcher in the Weather \& Climate Risks Group at ETH Zurich. 
 
 profile:
     name: Evelyn Mühlhofer
     position: PhD Researcher
     align: right
-    image: muhlhofer-profile.jpg
-    email: sadhana.nirandjan@vu.nl
-    twitter: s_nirandjan
-    orcid: 0000-0002-2967-7782
-    github: snirandjan
-    linkedin: sadhananirandjan
+    image: muehlhofer-profile.jpg
+    email: evelyn.muehlhofer@usys.ethz.ch
+    twitter: EMuehlhofer
+    orcid: 0000-0002-5587-9070
+    github: EvelynM
+    linkedin: evelyn-muehlhofer
     address: >
         Deltares <br />
         Boussinesqweg 1<br />
