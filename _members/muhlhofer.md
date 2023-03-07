@@ -4,43 +4,43 @@ inline: false
 group: Doctoral Researchers
 group_rank: 2
 team_frontpage: true
-​
+
 title: Evelyn Mühlhofer, MSc ETH
 description: 
 lastname: Mühlhofer
-publications: 'author^=*Muehlhofer'
-​
+publications: 'author^=*Mühlhofer'
+
 teaser: >
     Evelyn Mühlhofer is a PhD researcher in the Weather \& Climate Risks Group at ETH Zurich. 
-​
+
 profile:
-    name: Evelyn Mühlhofer
+    name:Evelyn Mühlhofer
     position: PhD Researcher
     align: right
-    image: 
-    email: evelyn.muehlhofer@usys.ethz.ch
-    twitter: EMuehlhofer
-    orcid: 0000-0002-5587-9070
-    github: EvelynM
-    linkedin: evelyn-muehlhofer
+    image: muhlhofer-profile.jpg
+    email: sadhana.nirandjan@vu.nl
+    twitter: s_nirandjan
+    orcid: 0000-0002-2967-7782
+    github: snirandjan
+    linkedin: sadhananirandjan
     address: >
         Weather \& Climate Risks Group <br />
         Universitätsstrasse 16 <br />
         8092 Zurich, Zurich, Switzerland
 ---
 
-Evelyn Mühlhofer is a PhD researcher in the Weather \& Climate Risks Group at ETH Zurich's Institute for Environmental Decisions in Switzerland, and is co-supervised by Elco Koks at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. Her research revolves around natural hazard impacts on critical infrastructure systems and service disruptions. Using network modelling, open-source geospatial data, and the risk assessment platform CLIMADA, she examines how structural damages to infrastructure assets can lead to systemic failure cascades, and their implications for basic service access to the dependent population.  
-​
-Beforehand, she completed a Bachelors degree in Interdisciplinary Sciences (Physical Chemistry) from ETH Zurich, during which she gained theoretical knowledge at the intersection of physics and chemistry, and practical laboratory experience in environmental and analytical chemistry during several research projects. She went on to pursue a Masters degree in Management, Technology \& Economics, where she transitioned towards a more applied science spectrum. She joined the Weather \& Climate Risks group with a master thesis contrasting actual risk exposure and stated adaptation intentions within countries' Nationally Determined Contributions following the Paris Agreement. After working in project monitoring and evaluation for a Swiss NGO, and a brief stay at the Swiss Meteorological Office (MeteoSwiss), she returned to ETH for her PhD.
+Sadhana Nirandjan is a PhD researcher within the department of Water and Climate Risk (WCR) at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. She completed a bachelor’s degree in Earth Sciences and Economics from Vrije Universiteit Amsterdam, during which she discovered her interest for interdisciplinary research within hydrological systems and its societal impacts. Before she started her master in Hydrology at Vrije Universiteit Amsterdam, she had followed extra-curricular courses at Stellenbosch University, South Africa, to gain more knowledge on environmental issues experienced abroad, for which she was awarded the Holland Scholarship. She completed her master’s in Hydrology with a thesis on Managed Aquifer Systems in coastal areas and was awarded the distinction cum laude. 
+
+In her current research, she aims to increase our understanding of the multi-hazard risk to critical infrastructure at the global scale. She developed the Critical Infrastructure Spatial Index (CISI) to identify the geospatial location of critical infrastructure and its density for each part of the world. Other aspects that are covered by her research are, under which, the vulnerability of assets, and the quantification of risks on our critical infrastructure due to natural hazards. 
 <br>
 
 ### Education 
 
 Year  | Programme | University
 -------|-------------------| ----------- 
-`2020-now`&nbsp; | PhD Weather \& Climate Risks | ETH Zurich
-`2016-2018` | MSc Management, Technology \& Economics | ETH Zurich
-`2013-2016` | BSc Interdisciplinary Sciences (Physical Chemistry) | ETH Zurich
+`2019-now`&nbsp; &nbsp;| PhD Multi-hazard risk to critical infrastructure at the global scale| Vrije Universiteit Amsterdam 
+`2017-2019` | MSc Hydrology (cum laude) | Vrije Universiteit Amsterdam
+`2013-2016` | BSc Earth & Economics | Vrije Universiteit Amsterdam
 
 <br>
 
@@ -48,10 +48,8 @@ Year  | Programme | University
 
 Year  | Job Title | Place 
 -------|-------------------| ----------- 
-`2020-now` | PhD Researcher | ETH Zurich 
-`2019-2020` | Scientific Intern | Swiss Meteorological Office (MeteoSwiss)
-`2018-2019` | Monitoring \& Evaluation Officer | HEKS/EPER
-`2015-2018` | Teaching \& Research Assistant for Organic Chemistry and for Development Economics | ETH Zurich 
+`2019-now` | PhD Researcher | Vrije Universiteit Amsterdam 
+`2018-2019` &nbsp;&nbsp; | Student Assistant Global Environmental Change & Policy &nbsp;&nbsp;| Vrije Universiteit Amsterdam 
 
 <br>
 
@@ -59,11 +57,12 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2020-2023` &nbsp;&nbsp; | CASCADES | PhD Researcher | Horizon 2020
+`2019-2023` &nbsp;&nbsp; | RECEIPT | PhD Researcher | Horizon 2020
 
 <br>
 
 ### Publications
 <div class="publications">
-  {% bibliography -f papers -q @*[author^=*Mühlhofer]* %}
+  {% bibliography -f papers -q @*[author^=*Nirandjan]* %}
 </div>
+
