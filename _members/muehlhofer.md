@@ -59,7 +59,7 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2020-2023` &nbsp;&nbsp; | CASCADES | PhD Researcher | Horizon 2020
+`2020-2023` &nbsp;&nbsp; | CASCADES  &nbsp;&nbsp;| PhD Researcher  &nbsp;&nbsp;| Horizon 2020
 
 <br>
 

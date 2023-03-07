@@ -57,7 +57,7 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2019-2023` &nbsp;&nbsp; | RECEIPT | PhD Researcher | Horizon 2020
+`2019-2023` &nbsp;&nbsp; | RECEIPT  &nbsp;&nbsp;| PhD Researcher  &nbsp;&nbsp;| Horizon 2020
 
 <br>
 

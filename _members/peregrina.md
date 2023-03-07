@@ -57,7 +57,7 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2023-now` &nbsp;&nbsp; | MIRACA | PhD Researcher | Horizon Europe
+`2023-now` &nbsp;&nbsp; | MIRACA  &nbsp;&nbsp;| PhD Researcher &nbsp;&nbsp; | Horizon Europe
 
 <br>
 

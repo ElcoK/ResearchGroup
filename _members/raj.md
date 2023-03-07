@@ -61,7 +61,7 @@ Year  | Job Title | Place
 
 Year | Project | Role | Funder 
 -------|-------------------| ----------- | ---------
-`2023-now` &nbsp;&nbsp; | MIRACA | PhD Researcher | HORIZON-MISS-2021-CLIMA-02-03
+`2023-now` &nbsp;&nbsp; | MIRACA  &nbsp;&nbsp;| PhD Researcher  &nbsp;&nbsp;| HORIZON-MISS-2021-CLIMA-02-03
 
 <br>
 
