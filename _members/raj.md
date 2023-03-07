@@ -8,7 +8,7 @@ team_frontpage: true
 title: Surender Raj V, M.Tech
 description: 
 lastname: Vanniya Perumal
-publications: 'author^=*Raj, S.V.'
+publications: 'author^=*Raj'
 
 teaser: >
     Surender Raj is a PhD candidate in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
