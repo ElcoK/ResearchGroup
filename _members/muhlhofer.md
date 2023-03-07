@@ -8,13 +8,13 @@ team_frontpage: true
 title: Evelyn Mühlhofer, MSc ETH
 description: 
 lastname: Mühlhofer
-publications: 'author^=*Mühlhofer'
+publications: 'author^=*Peregrina'
 
 teaser: >
-    Evelyn Mühlhofer is a PhD researcher in the Weather \& Climate Risks Group at ETH Zurich. 
+    Daniel Peregrina is a PhD researcher in the department of Climate Adaptation at Deltares and in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
 
 profile:
-    name:Evelyn Mühlhofer
+    name: Evelyn Mühlhofer
     position: PhD Researcher
     align: right
     image: muhlhofer-profile.jpg
@@ -24,9 +24,9 @@ profile:
     github: snirandjan
     linkedin: sadhananirandjan
     address: >
-        Weather \& Climate Risks Group <br />
-        Universitätsstrasse 16 <br />
-        8092 Zurich, Zurich, Switzerland
+        Deltares <br />
+        Boussinesqweg 1<br />
+        2629 HV, Delft, The Netherlands
 ---
 
 Sadhana Nirandjan is a PhD researcher within the department of Water and Climate Risk (WCR) at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. She completed a bachelor’s degree in Earth Sciences and Economics from Vrije Universiteit Amsterdam, during which she discovered her interest for interdisciplinary research within hydrological systems and its societal impacts. Before she started her master in Hydrology at Vrije Universiteit Amsterdam, she had followed extra-curricular courses at Stellenbosch University, South Africa, to gain more knowledge on environmental issues experienced abroad, for which she was awarded the Holland Scholarship. She completed her master’s in Hydrology with a thesis on Managed Aquifer Systems in coastal areas and was awarded the distinction cum laude. 
