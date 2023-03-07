@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: https://vu.nl/en/about-vu/research-institutes/institute-for-environmental-studies-ivm/more-about/the-impacts-of-climate-change-on-bonaire-2022-present
+permalink: /projects/
 description: 
 nav: true
 nav_order: 3

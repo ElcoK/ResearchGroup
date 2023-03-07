@@ -3,6 +3,7 @@ layout: page
 title: Climate Risk Bonaire
 description: The socioeconomic impacts of climate change to Bonaire
 img: assets/img/bonaire_image.jpg
+redirect: https://vu.nl/en/about-vu/research-institutes/institute-for-environmental-studies-ivm/more-about/the-impacts-of-climate-change-on-bonaire-2022-present 
 importance: 1
 category: Other
 ---
