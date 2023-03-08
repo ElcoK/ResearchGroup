@@ -18,6 +18,10 @@ profile:
     align: right
     image: colmenares-profile.jpg
     role: Student Researcher
+    address: >
+        Institute for Environmental Studies <br />
+        De Boelelaan 1111<br />
+        1081 HV, Amsterdam, The Netherlands
 ---
 
 
