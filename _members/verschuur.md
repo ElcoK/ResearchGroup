@@ -3,16 +3,16 @@ layout: member
 inline: false
 group: Affiliated Researchers
 group_rank: 4
-team_frontpage: false
+team_frontpage: true
 
 title: Dr. Jasper Verschuur
-description:
+description: 
 lastname: Verschuur
 publications: 'author^=*Verschuur'
-​
+
 teaser: >
-    I’m a Postdoctoral researcher within the Oxford Programme for Sustainable Infrastructure Systems at the Environmental Change Institute, University of Oxford.
-​
+    Jasper Verschuur is a Postdoctoral researcher within the Oxford Programme for Sustainable Infrastructure Systems at the Environmental Change Institute, University of Oxford.
+
 profile:
     name: Dr. Jasper Verschuur
     position: Postdoctoral Researcher
@@ -30,7 +30,7 @@ profile:
 ---
 
 Jasper Verschuur is a Postdoctoral Researcher within the Oxford Programme for Sustainable Infrastructure Systems (OPSIS) group at the Environmental Change Institute (University of Oxford) and currently part of the Oxford Martin School Programme on Systemic Resilience. His research combines knowledge from climate analysis, critical infrastructure modelling, economics and system analysis.
-​
+
 His main research interests include quantifying global system interactions of infrastructure, trade and supply-chains networks and the risks posed to these networks from climate-related extremes or other disasters. His research aims to identify policies to promote resilience and sustainability within these coupled systems. He works closely together with different international organisations such as the World Bank and the IMF. 
 <br>
 
@@ -64,12 +64,11 @@ Year | Project | Role | Funder
 `2022-2023` | Doctoral Prize | Researcher | EPSRC
 `2019-2023` | Various Research Projects | Researcher | World Bank
 `2019-2022` | EPSRC DPhil Scholarship | Researcher | EPSRC
-<br>
 
+<br>
 
 ### Publications
 <div class="publications">
   {% bibliography -f papers -q @*[author^=*Verschuur]* %}
 </div>
-
 
