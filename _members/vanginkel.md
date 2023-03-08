@@ -21,5 +21,9 @@ profile:
     email: kees.vanginkel@deltares.nl
     github: keesvanginkel
     orcid: 0000-0003-1288-1485
+    address: >
+        Deltares <br />
+        Boussinesqweg 1<br />
+        2629 HV, Delft, The Netherlands    
 ---
 

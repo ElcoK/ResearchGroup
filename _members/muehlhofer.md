@@ -24,9 +24,9 @@ profile:
     github: EvelynM
     linkedin: evelyn-muehlhofer
     address: >
-        Deltares <br />
-        Boussinesqweg 1<br />
-        2629 HV, Delft, The Netherlands
+        Weather & Climate Risks Group <br />
+        Universitätsstrasse 16 <br />
+        8092 Zurich, Zurich, Switzerland
 ---
 
 Evelyn Mühlhofer is a PhD researcher in the Weather & Climate Risks Group at ETH Zurich's Institute for Environmental Decisions in Switzerland, and is co-supervised by Elco Koks at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. Her research revolves around natural hazard impacts on critical infrastructure systems and service disruptions. Using network modelling, open-source geospatial data, and the risk assessment platform CLIMADA, she examines how structural damages to infrastructure assets can lead to systemic failure cascades, and their implications for basic service access to the dependent population. 

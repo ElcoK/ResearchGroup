@@ -19,6 +19,10 @@ profile:
     align: right
     image: deplaen-profile.jpg
     role: PhD Researcher
+    address: >
+        Institute for Environmental Studies <br />
+        De Boelelaan 1111<br />
+        1081 HV, Amsterdam, The Netherlands
 ---
 
 
