@@ -3,7 +3,7 @@ layout: member
 inline: false
 group: Affiliated Researchers
 group_rank: 4
-team_frontpage: true
+team_frontpage: false
 
 title: Dr. Jasper Verschuur
 description: 
