@@ -24,7 +24,7 @@ profile:
     github: snirandjan
     linkedin: sadhananirandjan
     address: >
-        Institute for Environmental Studies<br />
+        Institute for Environmental Studies <br />
         De Boelelaan 1111<br />
         1081 HV, Amsterdam, The Netherlands
 ---
