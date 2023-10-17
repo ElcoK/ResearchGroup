@@ -3,6 +3,7 @@ layout: page
 title: MIRACA
 description: Multi-hazard Infrastructure Risk Assessment for Climate Adaptation
 img: assets/img/infra3.jpg
+redirect: https://miraca-project.eu
 importance: 1
 category: European Commission
 ---
