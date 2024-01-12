@@ -3,7 +3,7 @@ layout: member
 inline: false
 group: Affiliated Researchers
 group_rank: 4
-team_frontpage: false
+team_frontpage: true
 
 title: Dr. Kees van Ginkel
 description: 
@@ -11,7 +11,7 @@ lastname: Van Ginkel
 publications: 'author^=*{Van Ginkel}'
 
 teaser: >
-    Kees van Ginkel is a researcher working at Deltares.
+    Kees van Ginkel is a researcher in the department of Climate Adaptation at Deltares and a visiting researcher in the department of Water and Climate Risk (WCR) of the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam.
 
 profile:
     name: Dr. Kees van Ginkel

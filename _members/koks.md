@@ -11,7 +11,7 @@ lastname: Koks
 publications: 'author^=*Koks'
 
 teaser: >
-    I’m a (tenured) Assistant Professor within the Water & Climate Risk Group at the Institute for Environmental Studies, Vrije Universiteit Amsterdam. 
+    I’m a (tenured) Associate Professor within the Water & Climate Risk Group at the Institute for Environmental Studies, Vrije Universiteit Amsterdam. 
 
 profile:
     name: Dr. Elco Koks
@@ -29,9 +29,9 @@ profile:
         1081 HV, Amsterdam, The Netherlands
 ---
 
-Elco Koks is an Assistant Professor within the Water and Climate Risk group at the Institute for Environmental Studies (Vrije Universiteit Amsterdam) and a Honorary Research Associate within the Oxford Programme of Sustainable Infrastructure Systems (OPSIS). His research combines knowledge from disaster impact modelling, critical infrastructure, network analysis and macroeconomics. 
+Elco Koks is an Associate Professor within the Water and Climate Risk group at the Institute for Environmental Studies (Vrije Universiteit Amsterdam) and a Honorary Research Associate within the Oxford Programme of Sustainable Infrastructure Systems (OPSIS). His research combines knowledge from disaster impact modelling, critical infrastructure, network analysis and macroeconomics. 
 
-He currently supervises nine PhDs that work on the interplay of multi-risk, critical infrastructure risk modelling, network analysis and economic impact analysis.
+He currently supervises eight PhDs that work on the interplay of multi-risk, critical infrastructure risk modelling, network analysis and economic impact analysis.
 
 One of his own specialties is the modelling of the economy-wide consequences of disasters on both a regional and interregional level, focusing on industrial impacts and infrastructure systems. One of the key elements in his research is to integrate natural disaster models with macroeconomic impact models. 
 <br>
@@ -51,8 +51,9 @@ Year  | Programme | University
 
 Year  | Job Title | Place 
 -------|-------------------| ----------- 
-`2019-now` | Assistant Professor | Vrije Universiteit Amsterdam 
-`2019-now` | Honorary Research Associate &nbsp;&nbsp;| University of Oxford 
+`2024-now` | Associate Professor | Vrije Universiteit Amsterdam 
+`2019-2023` | Assistant Professor | Vrije Universiteit Amsterdam 
+`2019-2023` | Honorary Research Associate &nbsp;&nbsp;| University of Oxford 
 `2017-2019` | Postdoctoral Researcher | University of Oxford 
 `2016-2018`&nbsp; | Postdoctoral Researcher | Vrije Universiteit Amsterdam 
 `2012-2016` | PhD Researcher | Vrije Universiteit Amsterdam 

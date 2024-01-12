@@ -3,7 +3,7 @@ layout: member
 inline: false
 group: Doctoral Researchers
 group_rank: 2
-team_frontpage: true
+team_frontpage: false
 
 title: Evelyn Mühlhofer, MSc ETH
 description: 
@@ -11,11 +11,11 @@ lastname: Mühlhofer
 publications: 'author^=*Mühlhofer'
 
 teaser: >
-    Evelyn Mühlhofer is a PhD researcher in the Weather & Climate Risks Group at ETH Zurich. 
+    Evelyn Mühlhofer is a Postdoctoral researcher in the Weather & Climate Risks Group at ETH Zurich. 
 
 profile:
     name: Evelyn Mühlhofer
-    position: PhD Researcher
+    position: Postdoctoral Researcher
     align: right
     image: muehlhofer-profile.jpg
     email: evelyn.muehlhofer@usys.ethz.ch
