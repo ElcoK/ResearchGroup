@@ -1,8 +1,8 @@
 ---
 layout: member
 inline: false
-group: Doctoral Researchers
-group_rank: 2
+group: Affiliated Researchers
+group_rank: 4
 team_frontpage: false
 
 title: Evelyn Mühlhofer, MSc ETH
