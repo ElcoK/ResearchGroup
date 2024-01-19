@@ -5,7 +5,7 @@ group: Student Researchers
 group_rank: 3
 team_frontpage: true
 
-title: Maria Colmenares, BSc Environmental Engineering
+title: Maria Colmenares, BSc
 description: 
 lastname: Colmenares
 publications: 'author^=*Colmenares'
