@@ -2,7 +2,7 @@
 layout: member
 inline: false
 group: Affiliated Researchers
-group_rank: 4
+group_rank: 5
 team_frontpage: false
 
 title: Evelyn Mühlhofer, MSc ETH

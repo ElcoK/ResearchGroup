@@ -2,7 +2,7 @@
 layout: member
 inline: false
 group: Student Researchers
-group_rank: 3
+group_rank: 4
 team_frontpage: true
 
 title: Maria Colmenares, BSc

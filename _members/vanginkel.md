@@ -1,8 +1,8 @@
 ---
 layout: member
 inline: false
-group: Affiliated Researchers
-group_rank: 4
+group: Postdoctoral Researchers
+group_rank: 2
 team_frontpage: true
 
 title: Dr. Kees van Ginkel
