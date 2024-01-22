@@ -1,11 +1,11 @@
 ---
 layout: member
 inline: false
-group:
-group_rank: 
+group: Postdoctoral Researchers
+group_rank: 2
 team_frontpage: true
 
-title: Dr.-Ing.
+title: Dr.-Ing. Shadi Shirazian
 description: 
 lastname: Shirazian
 publications: 'author^=*Shirazian'
@@ -36,7 +36,6 @@ With a deep passion for resilience, most of my academic experiences have involve
 <br>
 
 ### Education 
-
 
 | Program
 |---|
