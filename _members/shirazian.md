@@ -29,9 +29,9 @@ profile:
         1081 HV, Amsterdam, The Netherlands
 ---
 
-I am a postdoctoral researcher at the Water and Climate Risk Institute of Vrije University Amsterdam, specializing in the multi-hazard risk assessment of critical infrastructures. I hold a PhD in Civil Engineering and Environmental Science from the Karlsruhe Institute of Technology (KIT) in Germany, where my research was primarily focused on developing data reduction methodologies for stochastic seismic risk assessment of infrastructures.  In addition, I have a Master's degree in Structural Engineering, for which I developed fragility curves for concrete bridges. 
+I am a Postdoctoral Researcher in the Water and Climate Risk (WCR) department at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam, specializing in the multi-hazard risk assessment of critical infrastructures. I hold a PhD in Civil Engineering and Environmental Science from the Karlsruhe Institute of Technology (KIT) in Germany, where my research was primarily focused on developing data reduction methodologies for stochastic seismic risk assessment of infrastructures.  In addition, I have a Master's degree in Structural Engineering, for which I developed fragility curves for concrete bridges. 
 
-With a deep passion for resilience, most of my academic experiences have involved studying the effects of natural hazards on infrastructures. My goal is to develop solutions that not only advance academic understanding but also benefit communities facing the challenges of climate change and natural disasters.
+With a deep passion for resilience, most of my academic experiences have involved studying the effects of natural hazards on infrastructures. My goal is to develop solutions that not only advance academic understanding but also benefit communities facing the challenges of climate change and natural hazards.
 
 <br>
 
