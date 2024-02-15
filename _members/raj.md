@@ -29,7 +29,7 @@ profile:
         1081 HV, Amsterdam, The Netherlands
 ---
 
-Surender Raj is a Ph.D. candidate in Water and Climate Risk (WCR) department at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. His research interests include infrastructure resilience, vulnerability modeling, and the economic impacts of natural disasters. 
+Surender Raj is a Ph.D. candidate in the Water and Climate Risk (WCR) department at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. His research interests include infrastructure resilience, vulnerability modeling, and the economic impacts of natural disasters. 
 
 He completed his bachelor's degree in Civil engineering from PSG College of Technology, Coimbatore. He did his master's in Civil Engineering (specialization in Structural Engineering) from the Indian Institute of Technology Gandhinagar, and his thesis focussed on strategies to improve power infrastructure resilience on the eastern coast of India. Before joining IVM, he worked with Impact Forecasting - AON as a flood vulnerability  model developer, where he developed flood damage functions and business interruption (BI) loss functions to serve (re)insurance purposes.
 
