@@ -59,6 +59,7 @@ Year | Job Title | Place
 Year | Project | Role | Funder
 -------|-------------------| ----------- | ---------
 `2021-now` &nbsp;&nbsp; | CoCliCo  &nbsp;&nbsp;| PhD Researcher  &nbsp;&nbsp;| Horizon 2020
+
 <br>
 
 
