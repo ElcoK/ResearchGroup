@@ -4,10 +4,12 @@ github_users:
   - joel-deplaen-ivm
   - osm-flex
   - Mengqi-Ye
+  - VU-IVM
 
 github_repos:
-  - ElcoK/damagescanner
+  - VU-IVM/damagescanner
   - ElcoK/trails
   - ElcoK/gmtra
   - osm-flex/osm-flex
   - snirandjan/CISI
+  - VU-IVM/VineCopulas
