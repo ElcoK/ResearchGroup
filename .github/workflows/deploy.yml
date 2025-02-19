@@ -22,7 +22,7 @@ jobs:
         with:
           ruby-version: '3.0.2'
           bundler-version: '2.3.26'
-          bundler-cache: true
+          bundler-cache: false
 
       - name: Update Bundler
         run: gem install bundler
