@@ -22,11 +22,6 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-      - name: Setup Python 🐍
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-          cache: "pip" # caching pip dependencies
 
       - name: Install deps
         run: |
