@@ -29,7 +29,7 @@ profile:
         1081 HV, Amsterdam, The Netherlands
 ---
 
-Mengqi Ye is a PhD Researcher in the Department of Water and Climate Risk at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam (VU Amsterdam). Mengqi’s research interests bridge three related themes: power infrastructure system-of-systems and risk modelling, resilience of system, and cost-benefit analysis of adaptation options. Her PhD project is funded by the China Scholarship Council (CSC), and aims to improve our understanding of the impacts of climate extremes (tropical cyclones and flooding) on power systems and assess adaptation options to enhance system resilience.
+Mengqi Ye is a final year PhD Researcher in the Department of Water and Climate Risk at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam (VU Amsterdam). Mengqi’s research interests bridge three related themes: power infrastructure system-of-systems and risk modelling, resilience of system, and cost-benefit analysis of adaptation options. Her PhD project is funded by the China Scholarship Council (CSC), and aims to improve our understanding of the impacts of climate extremes (tropical cyclones and flooding) on power systems and assess adaptation options to enhance system resilience.
 
 Prior to this, Mengqi obtained her Master degree in Natural Hazards at Beijing Normal University (BNU), where her research focused on developing a statistical model to estimate the direct economic losses caused by tropical cyclones in China.
 <br>

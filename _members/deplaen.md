@@ -26,7 +26,7 @@ profile:
        De Boelelaan 1111<br />
        1081 HV, Amsterdam, The Netherlands
 ---
-Joel De Plaen is a Ph.D. candidate in the Water and Climate Risk (WCR) department at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. His research focuses on leveraging Deep Learning to improved information on the exposure and vulnerability of critical infrastructures.
+Joel De Plaen is a final year Ph.D. candidate in the Water and Climate Risk (WCR) department at the Institute for Environmental Studies (IVM) at Vrije Universiteit Amsterdam. His research focuses on leveraging Deep Learning to improved information on the exposure and vulnerability of critical infrastructures.
 He completed his bachelor’s degree in Physical and Human Geography at Université Libre de Bruxelles (Belgium). He pursued his master’s in M.Sc. in Earth Sciences (Environmental Management track) at Universiteit van Amsterdam, and his thesis focused on addressing drought from an impact perspective by investigating the application of an online media-based drought detection and monitoring system.
 
 <br>

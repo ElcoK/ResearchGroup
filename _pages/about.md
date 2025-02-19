@@ -30,7 +30,7 @@ social: false  # includes social icons at the bottom of the page
 Welcome to the webpage of the Infrastructure Risk & Resilience Group!
 We are part of the [Institute for Environmental Studies (IVM)](https://www.ivm.vu.nl/){: target="_blank"} at the [Vrije Universiteit Amsterdam (VUA)](https://www.vu.nl/){: target="_blank"} and have close collaborations with [Deltares](https://www.deltares.nl/){: target="_blank"}, the [Weather & Climate Risk Group](https://wcr.ethz.ch/){: target="_blank"} at ETH Zurich and the [Oxford Programma for Sustainabable Infrastructure Systems (OPSIS)](https://opsis.eci.ox.ac.uk/){: target="_blank"} at the University of Oxford. 
 
-Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network interdependency modelling** and **large-scale risk assessments**.
+Together we enjoy working on **Infrastructure Risk Modelling**, ranging from improving exposure information through **object-based detection on satellite imagery**, to **network and economic interdependency modelling**, the development of **climate-adaptation strategies** and **large-scale risk assessments**.
 
 [Talk to us](mailto:elco.koks@vu.nl) when you are interested in these topics or our work.
 
